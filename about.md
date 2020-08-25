@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Soy Ingeniero en Informática de profesión, ver Fútbol y Beisbol es lo que más me gusta además de compartir conocimientos y el intercambio de ideas productivas.
 
-### More Information
+### ¿Algo más?
 
-A place to include any other types of information that you'd like to include about yourself.
+Lo que en este Blog escribo son códigos y procedimientos que he usado y probado en mi día a día como profesional de la informática ojalá ayuden a alguien, de pronto puede que no sea lo mejor del mundo y por tanto las mejoras y sugerencias serán siempre bienvenidas.
 
-### Contact me
+### Si me quieres contactar....
+Estimado colega si algo más quieres compartir o contactarme puedes hacerlo a través de mi correo
+[jorgegonzalezvargas@gmail.com](mailto:jorgegonzalezvargas@gmail.com)
 
-[email@domain.com](mailto:email@domain.com)
+O si lo deseas aquí tienes mi [Telegram](https://t.me/jogonza)
